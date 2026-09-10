@@ -10,7 +10,7 @@ API RESTful desarrollada con **Laravel 12**, **Eloquent ORM** y **JWT (JSON Web 
 ## 🛠️ Requisitos e Instalación
 
 1. **Clonar el repositorio:
-   git clone [https://github.com/TU-USUARIO/sistema-libros-jwt-api.git](https://github.com/TU-USUARIO/sistema-libros-jwt-api.git)
+   git clone [https://github.com/stanleygarcia22-del/sistema-libros-jwt-api.git](https://github.com/TU-USUARIO/sistema-libros-jwt-api.git)
    cd sistema-libros-jwt-api
 
 2. Instalar dependencias de PHP: composer install
